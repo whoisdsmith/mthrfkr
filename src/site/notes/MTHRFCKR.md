@@ -67,102 +67,99 @@ Big Shoutout For The OSINT Resources goes out to Dean Da Costa and technisette
 
 ---
 
-
-## Awesome 
-
-- [Awesome](Awesome.md)
-	- [Awesome Audio-Visual](Awesome%20Audio-Visual.md)
-	- [Awesome Github Badges](Awesome%20Github%20Badges.md)
-	- [Awesome Cheatsheet](Awesome%20Cheatsheet.md)
-	- [Awesome Cheatsheet-God](Awesome%20Cheatsheet-God.md)
-	- [Awesome Dev Resources](Awesome%20Dev%20Resources.md)
-	- [Awesome DevOps](Awesome%20DevOps.md)
-	- [Awesome FBI-tools](Awesome%20FBI-tools.md)
-	- [Awesome Git](Awesome%20Git.md)
-	- [Awesome git addons](Awesome%20git%20addons.md)
-	- [Awesome GitHub Cheat Sheet](Awesome%20GitHub%20Cheat%20Sheet.md)
-	- [Awesome GitHub Repositories](Awesome%20GitHub%20Repositories.md)
-	- [Awesome Hacker Search Engines](Awesome%20Hacker%20Search%20Engines.md)
-	- [Awesome Infosec](Awesome%20Infosec.md)
-	- [Awesome Music](Awesome%20Music.md)
-	- [Awesome Offensive](Awesome%20Offensive.md)
-	- [Awesome Research Tools](Awesome%20Research%20Tools.md)
-	- [Awesome Resources](Awesome%20Resources.md)
-	- [Awesome topics](Awesome%20topics.md)
-	- [Awesome Web Archiving](Awesome%20Web%20Archiving.md)
-	- [awesome-badges](awesome-badges.md)
-	- [awesome-github-stats](awesome-github-stats.md)
-	- [Awesome-MF](Awesome-MF.md)
-	- [awesome-static-generators](awesome-static-generators.md)
-	- [awesome-static-website-services](awesome-static-website-services.md)
+- [[Awesome|Awesome]]
+	- [[Awesome Audio-Visual|Awesome Audio-Visual]]
+	- [[Awesome Github Badges|Awesome Github Badges]]
+	- [[Awesome Cheatsheet|Awesome Cheatsheet]]
+	- [[Awesome Cheatsheet-God|Awesome Cheatsheet-God]]
+	- [[Awesome Dev Resources|Awesome Dev Resources]]
+	- [[Awesome DevOps|Awesome DevOps]]
+	- [[Awesome FBI-tools|Awesome FBI-tools]]
+	- [[Awesome Git|Awesome Git]]
+	- [[Awesome git addons|Awesome git addons]]
+	- [[Awesome GitHub Cheat Sheet|Awesome GitHub Cheat Sheet]]
+	- [[Awesome GitHub Repositories|Awesome GitHub Repositories]]
+	- [[Awesome Hacker Search Engines|Awesome Hacker Search Engines]]
+	- [[Awesome Infosec|Awesome Infosec]]
+	- [[Awesome Music|Awesome Music]]
+	- [[Awesome Offensive|Awesome Offensive]]
+	- [[Awesome Research Tools|Awesome Research Tools]]
+	- [[Awesome Resources|Awesome Resources]]
+	- [[Awesome topics|Awesome topics]]
+	- [[Awesome Web Archiving|Awesome Web Archiving]]
+	- [[awesome-badges|awesome-badges]]
+	- [[awesome-github-stats|awesome-github-stats]]
+	- [[Awesome-MF|Awesome-MF]]
+	- [[awesome-static-generators|awesome-static-generators]]
+	- [[awesome-static-website-services|awesome-static-website-services]]
 
 ---
 
 ## BOOKMRKS-MTHRFCKR
 
 
-- [MTHRFCKR](MTHRFCKR.md)
-	- [Awesome Design Tools](Awesome%20Design%20Tools.md)
-	- [Content](Content.md)
-		- [Communities](Communities.md)
-		- [Content Blogs, RSS and Feeds](Content%20Blogs,%20RSS%20and%20Feeds.md)
-		- [Social Media](Social%20Media.md)
-	- [Development](Development.md)
-		- [Design](Design.md)
-		- [DevOps](DevOps.md)
-		- [Git](Git.md)
-	- [Links from WebOasis](Links%20from%20WebOasis.md)
-	- [Music](Music.md)
-		- [Music DL](Music%20DL.md)
-		- [Pro Audio](Pro%20Audio.md)
-	- [OSINT and Hacking](OSINT%20and%20Hacking.md)
-		- [OSINT](OSINT.md)
-		- [OSINT SEARCH ENGINES](OSINT%20SEARCH%20ENGINES.md)
-		- [Start.me Resources](Start.me%20Resources.md)
-	- [PKMS](PKMS.md)
-		- [Acronyms and Abbreviations](Acronyms%20and%20Abbreviations.md)
-		- [Apps](Apps.md)
-		- [Glossaries and Dictionaries](Glossaries%20and%20Dictionaries.md)
-		- [Memex](Memex.md)
-		- [Notetaking](Notetaking.md)
-		- [Obsidian](Obsidian.md)
-	- [Private Generator Tracker](Private%20Generator%20Tracker.md)
-	- [Projects](Projects.md)
-		- [Data Integration and Visualisers](Data%20Integration%20and%20Visualisers.md)
-		- [Financial](Financial.md)
-		- [Journal](Journal.md)
-	- [Raindrops](Raindrops.md)
-	- [Reference](Reference.md)
-		- [Academic](Academic.md)
-		- [Academic and Grey Literature Research Tools](Academic%20and%20Grey%20Literature%20Research%20Tools.md)
-		- [Adderall](Adderall.md)
-		- [Ancestry Research](Ancestry%20Research.md)
-		- [Annotation and Highlighting](Annotation%20and%20Highlighting.md)
-		- [Audio Books](Audio%20Books.md)
-		- [DocArticles](DocArticles.md)
-		- [Document Checking](Document%20Checking.md)
-		- [Ebooks](Ebooks.md)
-		- [EDU](EDU.md)
-		- [GrammerSpellingEtc](GrammerSpellingEtc.md)
-		- [Learning](Learning.md)
-		- [Newspaper Sites](Newspaper%20Sites.md)
-		- [Papers and Journals](Papers%20and%20Journals.md)
-		- [PDF Management](PDF%20Management.md)
-		- [PDF Sites](PDF%20Sites.md)
-		- [Publications](Publications.md)
-		- [Reference Tools](Reference%20Tools.md)
-	- [Search Engines](Search%20Engines.md)
-	- [Social media and photos](Social%20media%20and%20photos.md)
-	- [Technology](Technology.md)
-	- [The World Wide Web](The%20World%20Wide%20Web.md)
-		- [Awesome Internet Finds](Awesome%20Internet%20Finds.md)
-		- [Browser Related](Browser%20Related.md)
-		- [Downloads](Downloads.md)
-		- [Google](Google.md)
-	- [Tools](Tools.md)
-	- [UI Graphics](UI%20Graphics.md)
-	- [WebDev](WebDev.md)
-	- [YouTube Video  Audio Downloaders](YouTube%20Video%20%20Audio%20Downloaders.md)
+- [[MTHRFCKR|MTHRFCKR]]
+	- [[Awesome Design Tools|Awesome Design Tools]]
+	- [[Content|Content]]
+		- [[Communities|Communities]]
+		- [[Content Blogs, RSS and Feeds|Content Blogs, RSS and Feeds]]
+		- [[Social Media|Social Media]]
+	- [[Development|Development]]
+		- [[Design|Design]]
+		- [[DevOps|DevOps]]
+		- [[Git|Git]]
+	- [[Links from WebOasis|Links from WebOasis]]
+	- [[Music|Music]]
+		- [[Music DL|Music DL]]
+		- [[Pro Audio|Pro Audio]]
+	- [[OSINT and Hacking|OSINT and Hacking]]
+		- [[OSINT|OSINT]]
+		- [[OSINT SEARCH ENGINES|OSINT SEARCH ENGINES]]
+		- [[Start.me Resources|Start.me Resources]]
+	- [[PKMS|PKMS]]
+		- [[Acronyms and Abbreviations|Acronyms and Abbreviations]]
+		- [[Apps|Apps]]
+		- [[Glossaries and Dictionaries|Glossaries and Dictionaries]]
+		- [[Memex|Memex]]
+		- [[Notetaking|Notetaking]]
+		- [[Obsidian|Obsidian]]
+	- [[Private Generator Tracker|Private Generator Tracker]]
+	- [[Projects|Projects]]
+		- [[Data Integration and Visualisers|Data Integration and Visualisers]]
+		- [[Financial|Financial]]
+		- [[Journal|Journal]]
+	- [[Raindrops|Raindrops]]
+	- [[Reference|Reference]]
+		- [[Academic|Academic]]
+		- [[Academic and Grey Literature Research Tools|Academic and Grey Literature Research Tools]]
+		- [[Adderall|Adderall]]
+		- [[Ancestry Research|Ancestry Research]]
+		- [[Annotation and Highlighting|Annotation and Highlighting]]
+		- [[Audio Books|Audio Books]]
+		- [[DocArticles|DocArticles]]
+		- [[Document Checking|Document Checking]]
+		- [[Ebooks|Ebooks]]
+		- [[EDU|EDU]]
+		- [[GrammerSpellingEtc|GrammerSpellingEtc]]
+		- [[Learning|Learning]]
+		- [[Newspaper Sites|Newspaper Sites]]
+		- [[Papers and Journals|Papers and Journals]]
+		- [[PDF Management|PDF Management]]
+		- [[PDF Sites|PDF Sites]]
+		- [[Publications|Publications]]
+		- [[Reference Tools|Reference Tools]]
+	- [[Search Engines|Search Engines]]
+	- [[Social media and photos|Social media and photos]]
+	- [[Technology|Technology]]
+	- [[The World Wide Web|The World Wide Web]]
+		- [[Awesome Internet Finds|Awesome Internet Finds]]
+		- [[Browser Related|Browser Related]]
+		- [[Downloads|Downloads]]
+		- [[Google|Google]]
+	- [[Tools|Tools]]
+	- [[UI Graphics|UI Graphics]]
+	- [[WebDev|WebDev]]
+	- [[YouTube Video  Audio Downloaders|YouTube Video  Audio Downloaders]]
 
 
 ---
@@ -171,24 +168,23 @@ Big Shoutout For The OSINT Resources goes out to Dean Da Costa and technisette
 ## FMHY
 
 
-- [FMHY](FMHY.md)
-	- [AdblockVPNGuide](AdblockVPNGuide.md)
-	- [AndroidPiracyGuide](AndroidPiracyGuide.md)
-	- [AudioPiracyGuide](AudioPiracyGuide.md)
-	- [base64](base64.md)
-	- [DEVTools](DEVTools.md)
-	- [DownloadPiracyGuide](DownloadPiracyGuide.md)
-	- [EDUPiracyGuide](EDUPiracyGuide.md)
-	- [img-tools](img-tools.md)
-	- [LinuxGuide](LinuxGuide.md)
-	- [MISCGuide](MISCGuide.md)
-	- [ReadingPiracyGuide](ReadingPiracyGuide.md)
-	- [STORAGE](STORAGE.md)
-	- [TOOLSGuide](TOOLSGuide.md)
-	- [TorrentPiracyGuide](TorrentPiracyGuide.md)
-	- [VideoPiracyGuide](VideoPiracyGuide.md)
+- [[FMHY|FMHY]]
+	- [[AdblockVPNGuide|AdblockVPNGuide]]
+	- [[AndroidPiracyGuide|AndroidPiracyGuide]]
+	- [[AudioPiracyGuide|AudioPiracyGuide]]
+	- [[base64|base64]]
+	- [[DEVTools|DEVTools]]
+	- [[DownloadPiracyGuide|DownloadPiracyGuide]]
+	- [[EDUPiracyGuide|EDUPiracyGuide]]
+	- [[img-tools|img-tools]]
+	- [[LinuxGuide|LinuxGuide]]
+	- [[MISCGuide|MISCGuide]]
+	- [[ReadingPiracyGuide|ReadingPiracyGuide]]
+	- [[STORAGE|STORAGE]]
+	- [[TOOLSGuide|TOOLSGuide]]
+	- [[TorrentPiracyGuide|TorrentPiracyGuide]]
+	- [[VideoPiracyGuide|VideoPiracyGuide]]
 
-----
 
 ---
 
