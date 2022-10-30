@@ -57,9 +57,7 @@ Big Shoutout For The OSINT Resources goes out to Dean Da Costa and technisette
 
 
 - [x] Add HTML Export
-- [x] Add CSV Export
-- [x] Add JSON Export
-- [x] Add EXCEL Export
+
 
 ---
 
