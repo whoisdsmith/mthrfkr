@@ -11,7 +11,7 @@
 
 - [Awesome](Awesome.md)
 	- [Awesome Audio-Visual](Awesome%20Audio-Visual.md)
-	- [Awesome Badges](Awesome%20Badges.md)
+	- [Awesome Github Badges](Awesome%20Github%20Badges.md)
 	- [Awesome Cheatsheet](Awesome%20Cheatsheet.md)
 	- [Awesome Cheatsheet-God](Awesome%20Cheatsheet-God.md)
 	- [Awesome Dev Resources](Awesome%20Dev%20Resources.md)
