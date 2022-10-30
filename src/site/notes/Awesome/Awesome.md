@@ -28,7 +28,7 @@
 ## Github
 
 - [awesome-badges](awesome-badges.md)
-- [Awesome Badges](Awesome%20Badges.md)
+- [Awesome Github Badges](Awesome%20Github%20Badges.md)
 - [Awesome Git](Awesome%20Git.md)
 - [Awesome git addons](Awesome%20git%20addons.md)
 - [Awesome GitHub Cheat Sheet](Awesome%20GitHub%20Cheat%20Sheet.md)
